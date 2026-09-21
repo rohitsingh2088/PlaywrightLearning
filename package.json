@@ -1,0 +1,25 @@
+{
+  "name": "playwrightlearning",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rohitsingh2088/PlaywrightLearning#readme",
+  "bugs": {
+    "url": "https://github.com/rohitsingh2088/PlaywrightLearning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsingh2088/PlaywrightLearning.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
